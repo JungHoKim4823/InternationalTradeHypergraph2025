@@ -1,0 +1,4 @@
+This repository contains the codes to reproduce the paper: "Structure and dynamics jointly stabilize the international trade hypergraph" by Jung-Ho Kim, Sudo Yi, Sang-Hwan Gwak, K.-I. Goh, and D.-S. Lee (2025)
+
+To run the codes, you need to place the trade data files into their respective folders.
+In each trade data file, one row represents one individual trade (one hyperedge). Each row consists of five columns. The first column is the export country code number, the second column is the import country code number, the third column is the commodity code number, the fourth column is the trade volume in dollars, and the fifth column is g(t+1).
